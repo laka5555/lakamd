@@ -1,18 +1,15 @@
 {
-    "bot-name": "LAKA-MD-V3",
-    "description": "Laka Md made By Lashmitha 🐣💗🪄",
-    "logo": "https://raw.githubusercontent.com/lakadb/m/refs/heads/main/new.jpg",
-    "keywords": ["bot"],
-    "documentation-link": "https://laka-web-c1cfbdab0e5c.herokuapp.com/pair",
-    "owner-verification":"lakamdgit@gmail.com",
-  
-    "env": {
-      "SESSION_ID": {
-        "description": "Put your SESSION_ID here.",
-        "value":"",
-        "required": true
-        
-      }
+  "bot-name": "LAKA-MD-V3",
+  "description": "Laka MD made by Lashmitha 🐣💗🪄",
+  "logo": "https://raw.githubusercontent.com/lakadb/m/refs/heads/main/new.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://laka-web-c1cfbdab0e5c.herokuapp.com",
+  "owner-verification": "lakamdgit@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here.",
+      "value": "",
+      "required": true
     }
-  
   }
+}
